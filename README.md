@@ -8,9 +8,28 @@ This is a WIP, thought about for years, but started in earnest after an online c
 
 ## todo
 
+### stage 0
+
+* contact users interested in contributing
+https://twitter.com/kylebubp/status/1004051889447735296
+https://twitter.com/Lerg/status/1004052907979763712
+https://twitter.com/irongeek_adc/status/1004048921956675585
 * query others to join the project
+
+### stage 1
+
 * build outline
+
+### stage 2
+
 * add content
-* repeat until complete
+
+### stage 3
+
+* gather more ideas, take input from community, posts, etc
+
+### repeat and handoff
+
+* repeat until you can no longer, but always leave the project open for others to admin, and add users to
 
 ### thanks
