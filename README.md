@@ -23,6 +23,11 @@ This is a WIP, it's something I've thought about for years, but started in earne
 
 * build outline
 
+resources:
+
+* social media [Heirs can access Facebook account of deceased relatives: German court](https://www.reuters.com/article/us-facebook-privacy-germany/heirs-can-access-facebook-account-of-deceased-relatives-german-court-idUSKBN1K219A)
+* [BSides Cincinnati 2018 - 2:00 PM - Kyle Bubp - Death, Dealing, and Digital Forensics](https://www.youtube.com/watch?v=5PBukBKkkz8&feature=youtu.be)
+
 ### stage 2
 
 * add content
@@ -33,6 +38,6 @@ This is a WIP, it's something I've thought about for years, but started in earne
 
 ### repeat and handoff
 
-* repeat until you we no longer, and always leave the project open for others to admin, and add users to
+* repeat until you are no longer able, with the goal to always leave the project open for others to take over and add users to
 
 ### thanks
