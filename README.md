@@ -27,6 +27,7 @@ resources:
 
 * social media [Heirs can access Facebook account of deceased relatives: German court](https://www.reuters.com/article/us-facebook-privacy-germany/heirs-can-access-facebook-account-of-deceased-relatives-german-court-idUSKBN1K219A)
 * [BSides Cincinnati 2018 - 2:00 PM - Kyle Bubp - Death, Dealing, and Digital Forensics](https://www.youtube.com/watch?v=5PBukBKkkz8&feature=youtu.be)
+* [Relateable comic](https://devops.com/an-eternal-presence/)
 
 ### stage 2
 
