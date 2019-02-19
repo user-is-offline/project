@@ -21,6 +21,8 @@ This is a WIP, it's something I've thought about for years, but started in earne
 
 ### stage 1
 
+look at the idea of "Cyber funerals" https://www.wired.co.uk/article/cyber-funerals
+
 * build outline
 
 resources:
