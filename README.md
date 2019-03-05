@@ -44,3 +44,12 @@ resources:
 * repeat until you are no longer able, with the goal to always leave the project open for others to take over and add users to
 
 ### thanks
+
+## Updates
+
+A great thread on this topic:
+https://twitter.com/natashenka/status/1102238991842078720 (excellent comments too for ideas)
+
+Unrolled thread: https://threadreaderapp.com/thread/1102238991842078720.html
+
+
