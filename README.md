@@ -53,3 +53,9 @@ https://twitter.com/natashenka/status/1102238991842078720 (excellent comments to
 Unrolled thread: https://threadreaderapp.com/thread/1102238991842078720.html
 
 
+more notes:
+Facebook adds new tributes section to memorialized profiles
+https://www.theverge.com/2019/4/9/18301885/facebook-tributes-section-memorialized-profiles-commemorate
+
+option to delete my page if you die
+https://www.facebook.com/help/103897939701143
