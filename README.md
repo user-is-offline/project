@@ -52,6 +52,8 @@ https://twitter.com/natashenka/status/1102238991842078720 (excellent comments to
 
 Unrolled thread: https://threadreaderapp.com/thread/1102238991842078720.html
 
+Dead Facebook users could outnumber the living by 2069
+https://thenextweb.com/socialmedia/2019/04/29/dead-facebook-users-could-outnumber-the-living-by-2069/
 
 more notes:
 Facebook adds new tributes section to memorialized profiles
