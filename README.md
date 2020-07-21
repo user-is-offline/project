@@ -29,6 +29,7 @@ The following links, posts, articles are good for more research and ideas going 
 * [Dead Facebook users could outnumber the living by 2069](https://thenextweb.com/socialmedia/2019/04/29/dead-facebook-users-could-outnumber-the-living-by-2069/ 
 * Facebook adds [new tributes section to memorialized profiles](https://www.theverge.com/2019/4/9/18301885/facebook-tributes-section-memorialized-profiles-commemorate) 
 * An option to delete a Facebook page [once you die](https://www.facebook.com/help/103897939701143) 
+* Another post https://www.gizmodo.co.uk/2020/07/after-she-died-my-mother-reminded-me-that-the-internet-isnt-forever/
 
 ## Contributors
 
