@@ -1,4 +1,4 @@
-<div align="right"><img src="icon.png" alt="user-is-offline" width="136" height="134"></div>
+![](icon.png)
 
 # user-is-offline
 
@@ -21,6 +21,8 @@ Kyle Bubp has provided an outline from his presentation on this topic, [Outline 
 ## Resources
 
 The following links, posts, articles are good for more research and ideas going forward
+
+* NEW 2025: [Nicole Schwartz - AmazonV - On Death](https://sites.google.com/site/amazonv/on-death)
 
 * The idead of [Cyber funerals](https://www.wired.co.uk/article/cyber-funerals) in Wired
 * Social media [Heirs can access Facebook account of deceased relatives: German court](https://www.reuters.com/article/us-facebook-privacy-germany/heirs-can-access-facebook-account-of-deceased-relatives-german-court-idUSKBN1K219A)
