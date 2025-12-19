@@ -1,4 +1,4 @@
-![](icon.png)
+<div align="center"><img src="icon.png"></div>
 
 # user-is-offline
 
