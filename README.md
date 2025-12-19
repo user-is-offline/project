@@ -8,6 +8,10 @@ What happens to all of our digital "stuff" when we die? What can and should we d
 
 This project is something I've thought about for years, but started getting organized here in earnest 2018 June 3, after an online conversation with [irongeek_adc](https://twitter.com/irongeek_adc/status/999838152318734336). I want this project to develop an outline, or a checklist, of steps to take to have your online profiles prepared for when you're not around. From your suvivors being able to access acounts, passwords, to postings becoming ephemeral, and disappearing after a certain amount of time, or maybe after you haven't checked in after X days, your profile may go into a dormant mode. There has to be a way for social media sites to understand that you're no longer around, and respond in kind. My hope is this project could spawn talks, and this reference manual or checklist for 'best practices' as we expand our online presence with an eye towards a time where we'll no longer be alive to shepard this content. In the future the hope is that this project becomes self sustainting, allowing others to take over and contribute to improvements when we're no longer here to contribute.
 
+## Website
+
+We're building a site at [user-is-offline.github.io](https://user-is-offline.github.io/) that will have a form to that you can fill out, save, print and share with trusted family members or whoever you want to have your private details to handle your affairs after you go offline.
+
 ## Outline
 
 Kyle Bubp has provided an outline from his presentation on this topic, [Outline of Things To Account For](https://github.com/user-is-offline/project/wiki/Outline-of-Things-To-Account-For) was transcribed from [BSides Cincinnati 2018 - 2:00 PM - Kyle Bubp - Death, Dealing, and Digital Forensics](https://www.youtube.com/watch?v=5PBukBKkkz8&feature=youtu.be), and is an excellent start as we build a bank of recommendations.
